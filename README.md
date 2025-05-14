@@ -1,4 +1,6 @@
-### SYNCHRONOUS-UP-COUNTER
+# NAME: ASWIN L
+# REG NO: 212224230028
+# SYNCHRONOUS-UP-COUNTER
 
 **AIM:**
 
@@ -43,8 +45,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
  
 
 ```
-Developed by:ASIN RENIX V
-RegisterNumber: 212224040036
+Developed by:ASWIN L
+RegisterNumber: 212224230028
 ```
 ```
 module exp11(out,clk,rstn);
